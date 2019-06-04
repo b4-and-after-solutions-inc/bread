@@ -6,12 +6,9 @@
               <div class="col-md-6 col-lg-4">
                 <h5 class="footer-modern-title oh-desktop"><span class="d-inline-block wow slideInLeft">What We Offer</span></h5>
                 <ul class="footer-modern-list d-inline-block d-sm-block wow fadeInUp">
-                  <li><a href="#">Pizzas</a></li>
-                  <li><a href="#">Burgers</a></li>
-                  <li><a href="#">Salads</a></li>
-                  <li><a href="#">Drinks</a></li>
-                  <li><a href="#">Seafood</a></li>
-                  <li><a href="#">Drinks</a></li>
+                  <li><a href="#">Breads</a></li>
+                  <li><a href="#">Cookies</a></li>
+                  <li><a href="#">Cakes</a></li>
                 </ul>
               </div>
               <div class="col-md-6 col-lg-4 col-xl-3">
@@ -47,7 +44,7 @@
             <div class="row row-30 align-items-center">
               <div class="col-sm-6 col-md-7 col-lg-4 col-xl-4">
                 <div class="row row-30 align-items-center text-lg-center">
-                  <div class="col-md-7 col-xl-6"><a class="brand" href="index.html"><img src="<?=base_url('assets/images/logo-inverse-198x66.png');?>" alt="" width="198" height="66"/></a></div>
+                  <div class="col-md-7 col-xl-6"><a class="brand" href="index.html"><img src="<?=base_url('assets/images/logo.jpg');?>" alt="" width="198" height="66"/></a></div>
                   <div class="col-md-5 col-xl-6">
                     <div class="iso-1"><span><img src="<?=base_url('assets/images/like-icon-58x25.png');?>" alt="" width="58" height="25"/></span><span class="iso-1-big">9.4k</span></div>
                   </div>
@@ -58,13 +55,13 @@
                   <div class="footer-modern-contacts wow slideInUp">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon icon-24 mdi mdi-phone"></span></div>
-                      <div class="unit-body"><a class="phone" href="tel:#">+1 718-999-3939</a></div>
+                      <div class="unit-body"><a class="phone" href="tel:#">+1 234-567-890</a></div>
                     </div>
                   </div>
                   <div class="footer-modern-contacts wow slideInDown">
                     <div class="unit unit-spacing-sm align-items-center">
                       <div class="unit-left"><span class="icon mdi mdi-email"></span></div>
-                      <div class="unit-body"><a class="mail" href="mailto:#">info@demolink.org</a></div>
+                      <div class="unit-body"><a class="mail" href="mailto:#">themakepeacebread@gmail.com</a></div>
                     </div>
                   </div>
                   <div class="wow slideInRight">

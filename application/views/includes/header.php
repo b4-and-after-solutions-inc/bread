@@ -66,7 +66,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="<?=base_url('assets/images/logo-198x66.png');?>" alt="" width="198" height="66"/></a></div>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="<?=base_url('assets/images/logo.jpg');?>" alt="" width="198" height="66"/></a></div>
                 </div>
                 <div class="rd-navbar-right rd-navbar-nav-wrap">
                   <div class="rd-navbar-aside">
@@ -74,13 +74,13 @@
                       <li>
                         <div class="unit unit-spacing-xs">
                           <div class="unit-left"><span class="icon mdi mdi-phone"></span></div>
-                          <div class="unit-body"><a class="phone" href="tel:#">+1 718-999-3939</a></div>
+                          <div class="unit-body"><a class="phone" href="tel:#">+1 234-567-890</a></div>
                         </div>
                       </li>
                       <li>
                         <div class="unit unit-spacing-xs">
                           <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
-                          <div class="unit-body"><a class="address" href="#">514 S. Magnolia St. Orlando, FL 32806</a></div>
+                          <div class="unit-body"><a class="address" href="#">GK Enchanted Farm Pandi-Angat Rd, Angat, Bulacan</a></div>
                         </div>
                       </li>
                     </ul>
