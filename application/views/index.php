@@ -68,7 +68,7 @@
                 <article class="services-terri wow slideInUp">
                   <div class="services-terri-figure"><img src="<?=base_url('assets/')?>images/pandesal-1.png" alt="" width="370" height="278"/>
                   </div>
-                  <div class="services-terri-caption"><span class="services-terri-icon linearicons-leaf"></span>
+                  <div class="services-terri-caption"><span class="services-terri-icon linearicons-bread"></span>
                     <h5 class="services-terri-title"><a href="#">Breads</a></h5>
                   </div>
                 </article>
@@ -80,7 +80,7 @@
                 <article class="services-terri wow slideInDown">
                   <div class="services-terri-figure"><img src="<?=base_url('assets/')?>images/cookies-2.png" alt="" width="370" height="278"/>
                   </div>
-                  <div class="services-terri-caption"><span class="services-terri-icon linearicons-pizza"></span>
+                  <div class="services-terri-caption"><span class="services-terri-icon linearicons-hamburger"></span>
                     <h5 class="services-terri-title"><a href="#">Cookies</a></h5>
                   </div>
                 </article>
@@ -92,7 +92,7 @@
                 <article class="services-terri wow slideInUp">
                   <div class="services-terri-figure"><img src="<?=base_url('assets/')?>images/choco-cake-3.png" alt="" width="370" height="278"/>
                   </div>
-                  <div class="services-terri-caption"><span class="services-terri-icon linearicons-hamburger"></span>
+                  <div class="services-terri-caption"><span class="services-terri-icon linearicons-cake"></span>
                     <h5 class="services-terri-title"><a href="#">Cakes</a></h5>
                   </div>
                 </article>
@@ -102,83 +102,7 @@
         </div>
       </section>
 
-      <!-- Section CTA-->
-      <section class="primary-overlay section parallax-container" data-parallax-img="<?=base_url('assets/');?>images/banner-4.png">
-        <div class="parallax-content section-xl context-dark text-md-left">
-          <div class="container">
-            <div class="row justify-content-end">
-              <div class="col-sm-8 col-md-7 col-lg-5">
-                <div class="cta-modern">
-                  <h3 class="cta-modern-title wow fadeInRight">About Us</h3>
-                  <p class="lead">We are not just a team but also a family!</p>
-                  <p class="cta-modern-text oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Yok & Angie, Founder</span></p><a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="#" data-wow-delay=".2s">View Our Members</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      <!-- What We Offer-->
-      <section class="section section-xl bg-default">
-        <div class="container">
-          <h3 class="wow fadeInLeft">What People Say</h3>
-        </div>
-        <div class="container container-style-1">
-          <div class="owl-carousel owl-style-12" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-xl-margin="45" data-autoplay="true" data-nav="true" data-center="true" data-smart-speed="400">
-            <!-- Quote Tara-->
-            <article class="quote-tara">
-              <div class="quote-tara-caption">
-                <div class="quote-tara-text">
-                  <p class="q">TheMakePeace Bakery is the best place in the city and is well run and staffed. Prices are great and allow me to keep coming back.</p>
-                </div>
-                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Ej.png" alt="" width="115" height="115"/>
-                </div>
-              </div>
-              <h6 class="quote-tara-author">Elisha John Pascual</h6>
-              <div class="quote-tara-status">Client</div>
-            </article>
-            <!-- Quote Tara-->
-            <article class="quote-tara">
-              <div class="quote-tara-caption">
-                <div class="quote-tara-text">
-                  <p class="q">I am a real bread addict, and even when I’m home I prefer your breads to all others. They taste awesome and are very affordable.</p>
-                </div>
-                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Felmar.png" alt="" width="115" height="115"/>
-                </div>
-              </div>
-              <h6 class="quote-tara-author">Felmar Llano</h6>
-              <div class="quote-tara-status">Client</div>
-            </article>
-            <!-- Quote Tara-->
-            <article class="quote-tara">
-              <div class="quote-tara-caption">
-                <div class="quote-tara-text">
-                  <p class="q">TheMakePeace Bakery has amazing breads. Not only do you get served with a great attitude, you also get delicious breads at a great price!</p>
-                </div>
-                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Tong.jpg" alt="" width="115" height="115"/>
-                </div>
-              </div>
-              <h6 class="quote-tara-author">Gyrome Tomas</h6>
-              <div class="quote-tara-status">Client</div>
-            </article>
-            <!-- Quote Tara-->
-            <article class="quote-tara">
-              <div class="quote-tara-caption">
-                <div class="quote-tara-text">
-                  <p class="q">TheMakePeace Bakery has great pandesal. Not only do you get served with a great attitude and delivered delicious breads, you get a great price.</p>
-                </div>
-                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Tata.png" alt="" width="115" height="115"/>
-                </div>
-              </div>
-              <h6 class="quote-tara-author">John Darren Comador</h6>
-              <div class="quote-tara-status">Client</div>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section class="section section-last bg-default">
+       <section class="section section-last bg-default">
         <div class="container-fluid container-inset-0 isotope-wrap">
           <div class="row row-10 gutters-10 isotope" data-isotope-layout="masonry" data-isotope-group="gallery" data-lightgallery="group">
             <div class="col-xs-6 col-sm-4 col-xl-2 isotope-item oh-desktop">
@@ -261,6 +185,83 @@
           </div>
         </div>
       </section>
+      <!-- Section CTA-->
+      <section class="primary-overlay section parallax-container" data-parallax-img="<?=base_url('assets/');?>images/banner-4.png">
+        <div class="parallax-content section-xl context-dark text-md-left">
+          <div class="container">
+            <div class="row justify-content-end">
+              <div class="col-sm-8 col-md-7 col-lg-5">
+                <div class="cta-modern">
+                  <h3 class="cta-modern-title wow fadeInRight">About Us</h3>
+                  <p class="lead">We are not just a team but also a family!</p>
+                  <p class="cta-modern-text oh-desktop" data-wow-delay=".1s"><span class="cta-modern-decor wow slideInLeft"></span><span class="d-inline-block wow slideInDown">Yok & Angie, Founder</span></p><a class="button button-md button-secondary-2 button-winona wow fadeInUp" href="#" data-wow-delay=".2s">View Our Members</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- What We Offer-->
+      <section class="section section-xl bg-default">
+        <div class="container">
+          <h3 class="wow fadeInLeft">What People Say</h3>
+        </div>
+        <div class="container container-style-1">
+          <div class="owl-carousel owl-style-12" data-items="1" data-sm-items="2" data-lg-items="3" data-margin="30" data-xl-margin="45" data-autoplay="true" data-nav="true" data-center="true" data-smart-speed="400">
+            <!-- Quote Tara-->
+            <article class="quote-tara">
+              <div class="quote-tara-caption">
+                <div class="quote-tara-text">
+                  <p class="q">TheMakePeace Bakery is the best place in the city and is well run and staffed. Prices are great and allow me to keep coming back.</p>
+                </div>
+                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Ej.png" alt="" width="115" height="115"/>
+                </div>
+              </div>
+              <h6 class="quote-tara-author">Elisha John Pascual</h6>
+              <div class="quote-tara-status">Client</div>
+            </article>
+            <!-- Quote Tara-->
+            <article class="quote-tara">
+              <div class="quote-tara-caption">
+                <div class="quote-tara-text">
+                  <p class="q">I am a real bread addict, and even when I’m home I prefer your breads to all others. They taste awesome and are very affordable.</p>
+                </div>
+                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Felmar.png" alt="" width="115" height="115"/>
+                </div>
+              </div>
+              <h6 class="quote-tara-author">Felmar Llano</h6>
+              <div class="quote-tara-status">Client</div>
+            </article>
+            <!-- Quote Tara-->
+            <article class="quote-tara">
+              <div class="quote-tara-caption">
+                <div class="quote-tara-text">
+                  <p class="q">TheMakePeace Bakery has amazing breads. Not only do you get served with a great attitude, you also get delicious breads at a great price!</p>
+                </div>
+                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Tong.jpg" alt="" width="115" height="115"/>
+                </div>
+              </div>
+              <h6 class="quote-tara-author">Gyrome Tomas</h6>
+              <div class="quote-tara-status">Client</div>
+            </article>
+            <!-- Quote Tara-->
+            <article class="quote-tara">
+              <div class="quote-tara-caption">
+                <div class="quote-tara-text">
+                  <p class="q">TheMakePeace Bakery has great pandesal. Not only do you get served with a great attitude and delivered delicious breads, you get a great price.</p>
+                </div>
+                <div class="quote-tara-figure"><img src="<?=base_url('assets/')?>images/Testimonies/Tata.png" alt="" width="115" height="115"/>
+                </div>
+              </div>
+              <h6 class="quote-tara-author">John Darren Comador</h6>
+              <div class="quote-tara-status">Client</div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+     
 
       <!-- Tell-->
       <section class="section section-sm section-first bg-default">

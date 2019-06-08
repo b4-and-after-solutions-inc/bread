@@ -59,7 +59,7 @@
         <!-- RD Navbar-->
         <div class="rd-navbar-wrap">
           <nav class="rd-navbar rd-navbar-modern" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-xxl-layout="rd-navbar-static" data-xxl-device-layout="rd-navbar-static" data-lg-stick-up-offset="56px" data-xl-stick-up-offset="56px" data-xxl-stick-up-offset="56px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
-            <div class="rd-navbar-inner-outer">
+            <div class="rd-navbar-inner-outer" style="background:#896241">
               <div class="rd-navbar-inner">
                 <!-- RD Navbar Panel-->
                 <div class="rd-navbar-panel">
@@ -98,7 +98,7 @@
                       </li>
                       <li class="rd-nav-item <?php echo ($nav == "About Us") ? "active" : " ";?>"><a class="rd-nav-link" href="<?=base_url('Bakery/about_us')?>">About us</a>
                       </li>
-                      <li class="rd-nav-item <?php echo ($nav == "Typography") ? "active" : " ";?>"><a class="rd-nav-link" href="<?=base_url('Bakery/typography')?>">Typography</a>
+                      <li class="rd-nav-item <?php echo ($nav == "Typography") ? "active" : " ";?>"><a class="rd-nav-link" href="<?=base_url('Bakery/typography')?>">Products</a>
                       </li>
                       <li class="rd-nav-item <?php echo ($nav == "Contacts") ? "active" : " ";?>"><a class="rd-nav-link" href="<?=base_url('Bakery/contacts')?>">Contacts</a>
                       </li>
